@@ -1,0 +1,157 @@
+{
+    "Software": "LiDAR360",
+    "Version": "1.1",
+    "ProjectType": "LiDAR360 Project",
+    "RelativePath": true,
+    "PointCloud": [
+        {
+            "name": "C:/TempWork/EchoOne/DP event/E1 Vs WL/E1-Individual/E1-DP-LLProc20260428-460836631.379_460836700.460-traj.LiData",
+            "path": "E1-Individual/E1-DP-LLProc20260428-460836631.379_460836700.460-traj.LiData",
+            "visible": true,
+            "attribute": "",
+            "file_as_type": "POINTS_CLOUD_TYPE",
+            "load_option": [
+                "0"
+            ],
+            "related": []
+        },
+        {
+            "name": "C:/TempWork/EchoOne/DP event/E1 Vs WL/E1-Individual/E1-DP-LLProc20260428-460836631.379_460836700.460.LiData",
+            "path": "E1-Individual/E1-DP-LLProc20260428-460836631.379_460836700.460.LiData",
+            "visible": true,
+            "attribute": "",
+            "file_as_type": "POINTS_CLOUD_TYPE",
+            "load_option": [
+                "0"
+            ],
+            "related": []
+        },
+        {
+            "name": "C:/TempWork/EchoOne/DP event/E1 Vs WL/E1-Individual/E1-DP-LLProc20260428-460836786.819_460836857.914-traj.LiData",
+            "path": "E1-Individual/E1-DP-LLProc20260428-460836786.819_460836857.914-traj.LiData",
+            "visible": true,
+            "attribute": "",
+            "file_as_type": "POINTS_CLOUD_TYPE",
+            "load_option": [
+                "0"
+            ],
+            "related": []
+        },
+        {
+            "name": "C:/TempWork/EchoOne/DP event/E1 Vs WL/E1-Individual/E1-DP-LLProc20260428-460836786.819_460836857.914.LiData",
+            "path": "E1-Individual/E1-DP-LLProc20260428-460836786.819_460836857.914.LiData",
+            "visible": true,
+            "attribute": "",
+            "file_as_type": "POINTS_CLOUD_TYPE",
+            "load_option": [
+                "0"
+            ],
+            "related": []
+        },
+        {
+            "name": "C:/TempWork/EchoOne/DP event/E1 Vs WL/WL-Individual/WL-DP-LLProc20260429-460838157.679_460838171.589-traj.LiData",
+            "path": "WL-Individual/WL-DP-LLProc20260429-460838157.679_460838171.589-traj.LiData",
+            "visible": true,
+            "attribute": "",
+            "file_as_type": "POINTS_CLOUD_TYPE",
+            "load_option": [
+                "0"
+            ],
+            "related": []
+        },
+        {
+            "name": "C:/TempWork/EchoOne/DP event/E1 Vs WL/WL-Individual/WL-DP-LLProc20260429-460838157.679_460838171.589.LiData",
+            "path": "WL-Individual/WL-DP-LLProc20260429-460838157.679_460838171.589.LiData",
+            "visible": true,
+            "attribute": "",
+            "file_as_type": "POINTS_CLOUD_TYPE",
+            "load_option": [
+                "0"
+            ],
+            "related": []
+        },
+        {
+            "name": "C:/TempWork/EchoOne/DP event/E1 Vs WL/WL-Individual/WL-DP-LLProc20260429-460838186.794_460838204.484-traj.LiData",
+            "path": "WL-Individual/WL-DP-LLProc20260429-460838186.794_460838204.484-traj.LiData",
+            "visible": true,
+            "attribute": "",
+            "file_as_type": "POINTS_CLOUD_TYPE",
+            "load_option": [
+                "0"
+            ],
+            "related": []
+        },
+        {
+            "name": "C:/TempWork/EchoOne/DP event/E1 Vs WL/WL-Individual/WL-DP-LLProc20260429-460838186.794_460838204.484.LiData",
+            "path": "WL-Individual/WL-DP-LLProc20260429-460838186.794_460838204.484.LiData",
+            "visible": true,
+            "attribute": "",
+            "file_as_type": "POINTS_CLOUD_TYPE",
+            "load_option": [
+                "0"
+            ],
+            "related": []
+        }
+    ],
+    "Raster": [],
+    "Vector": [],
+    "Table": [],
+    "Model": [],
+    "Trajectory": [],
+    "ImageList": [],
+    "ImageProject": [],
+    "TreeAttribute": [],
+    "Window": [
+        {
+            "title": "Viewer-0",
+            "3d": false,
+            "projection": "Ortho",
+            "camera": [
+                -452.55225250907773,
+                -142.45072256714738,
+                2799.018081570295,
+                -452.55225250907773,
+                -142.45072256714738,
+                -15.962818727483409,
+                -0.44470085442044927,
+                0.8956791557682485,
+                0.0,
+                2146444.071910645,
+                1439633.1481472107,
+                1098.8571782861143
+            ],
+            "object": [
+                "C:/TempWork/EchoOne/DP event/E1 Vs WL/E1-Individual/E1-DP-LLProc20260428-460836786.819_460836857.914-traj.LiData",
+                "C:/TempWork/EchoOne/DP event/E1 Vs WL/E1-Individual/E1-DP-LLProc20260428-460836631.379_460836700.460-traj.LiData",
+                "C:/TempWork/EchoOne/DP event/E1 Vs WL/E1-Individual/E1-DP-LLProc20260428-460836786.819_460836857.914.LiData",
+                "C:/TempWork/EchoOne/DP event/E1 Vs WL/E1-Individual/E1-DP-LLProc20260428-460836631.379_460836700.460.LiData"
+            ]
+        },
+        {
+            "title": "Viewer-1",
+            "3d": true,
+            "projection": "Ortho",
+            "camera": [
+                -317.4896894642152,
+                -433.9502768262755,
+                2479.3792231519783,
+                -317.4896894642152,
+                -433.9502768262755,
+                -290.5186582440715,
+                -0.4447008544204491,
+                0.8956791557682486,
+                0.0,
+                2146309.0093476,
+                1439924.64770147,
+                1372.8031928014
+            ],
+            "object": [
+                "C:/TempWork/EchoOne/DP event/E1 Vs WL/WL-Individual/WL-DP-LLProc20260429-460838186.794_460838204.484-traj.LiData",
+                "C:/TempWork/EchoOne/DP event/E1 Vs WL/WL-Individual/WL-DP-LLProc20260429-460838186.794_460838204.484.LiData",
+                "C:/TempWork/EchoOne/DP event/E1 Vs WL/WL-Individual/WL-DP-LLProc20260429-460838157.679_460838171.589.LiData",
+                "C:/TempWork/EchoOne/DP event/E1 Vs WL/WL-Individual/WL-DP-LLProc20260429-460838157.679_460838171.589-traj.LiData"
+            ]
+        }
+    ],
+    "Unit": "ftUS"
+}

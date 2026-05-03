@@ -1,0 +1,13 @@
+data for python/
+E1-Investigation-LL20260503/
+RESEPI-R0000-2026-04-21-19-49-03/
+WINGTRA-A84389-2026-04-21-20-20-03/
+.venv/
+__pycache__/
+*.pyc
+~$*
+
+# Ignore all large LiDAR data files to prevent GitHub push errors
+*.LiData
+*.laz
+*.las
