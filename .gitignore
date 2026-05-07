@@ -1,13 +1,22 @@
-data for python/
-E1-Investigation-LL20260503/
-RESEPI-R0000-2026-04-21-19-49-03/
-WINGTRA-A84389-2026-04-21-20-20-03/
+# Ignore everything in the root directory by default
+*
+
+# Allow exploring directories (necessary for Git to see inside them)
+!*/
+
+# Specifically allow our target tracking directories and files
+!scripts/
+!scripts/**
+!Analysis/
+!Analysis/**
+!.gitignore
+!requirements.txt
+
+# Explicitly ignore the virtual environment (use requirements.txt instead)
 .venv/
+/.venv/
+
+# Ignore standard python noise inside the allowed directories
 __pycache__/
 *.pyc
 ~$*
-
-# Ignore all large LiDAR data files to prevent GitHub push errors
-*.LiData
-*.laz
-*.las
